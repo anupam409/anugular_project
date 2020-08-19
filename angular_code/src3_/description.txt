@@ -1,0 +1,19 @@
+here we have use insert,update ,delete add,list of todo
+page validation,refresh ,form validation,filed validation
+
+use of button and submit button.
+
+* commucationg with restful webservice from backend  for vaious function 
+like get todo,add todo,update todo,delete todo.
+
+data is coming from spring api but not from database.
+
+
+*get data from api without secure using security in next project
+so we will get data using security
+1) based on basic authrization using spring security which is pom.xml
+2) and using JWT json web tool 
+
+
+src - for angular project only which is seperate
+main -for spring boot only which is seperate.
